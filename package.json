@@ -1,0 +1,21 @@
+{
+  "name": "chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "authz"
+  ],
+  "author": "Martin Karl Bittner",
+  "license": "ISC",
+  "dependencies": {
+    "@noble/hashes": "^1.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "ES6",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "moduleResolution": "nodenext",
+    "types": ["node"]
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*.ts"]
+}
